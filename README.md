@@ -6,6 +6,6 @@ To resuse you can ether Download or  git clone
 navgative to the directory 
 and run: npm install 
 
-npm install helps you to installl all the dependencies in the package.json file 
+npm install -  helps you to installl all the dependencies in the package.json file 
 
 
